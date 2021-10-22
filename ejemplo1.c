@@ -1,5 +1,5 @@
-#include <studio.h>
 #include <stdlib.h>
+#include <stdio.h>
 
 //codigo principal
 
