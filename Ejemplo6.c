@@ -3,7 +3,8 @@
 #include <stdio.h>
 /**
  * @lajavrac93 Ruben Carvajal Mesas
- * Ejemplo con el cual vemos la creación unión de hilos de proceso 
+ * 
+ * Ejemplo con el cual vemos la creación y manejo de hilos de proceso 
 */
 
 //ABUELO-HIJO-NIETO
@@ -11,7 +12,7 @@
 int main()
 {
   /**
-   * Creamos los distintos hilos
+   * Creamos la nomenclatura de los distintos hilos
   */
   pid_t pid, hijo_pid, pid2, hijo_pid2;
   /**
